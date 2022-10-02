@@ -64,7 +64,7 @@ color: black;
 
 section.imagem{
     background-color: aqua;
-    color: sienna;
+    color: rgb(255, 255, 255);
 background-attachment: fixed;
 
 }
